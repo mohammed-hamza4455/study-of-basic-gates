@@ -1,6 +1,6 @@
 # NAME : SHREYESHKAR SEKAR
 # REFERENCE NUMBER : 24900622
-### study-of-basic-gates
+### EXP 1 : Study-of-basic-gates
 
 **AIM:** 
 
@@ -71,18 +71,18 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
-![DE LG DIAGRAM](https://github.com/user-attachments/assets/333fa77b-87ba-459e-81f5-bf27d7798b7b)
-
-![DE LG OUTPUT](https://github.com/user-attachments/assets/c46b053d-5aed-479d-9ccf-ffbbe0176822)
-
-![DE LG CODE](https://github.com/user-attachments/assets/8164181a-82c5-4d38-89f5-9f57f9af22f8)
+![image](https://github.com/user-attachments/assets/ee78f90a-5139-49d6-888a-e0e91dc6d503)
 
 
 **RTL realization Output:** 
-![DE LG OUTPUT](https://github.com/user-attachments/assets/ad438272-5cc8-4634-9c43-4f0ca0d89287)
+![DE LG DIAGRAM](https://github.com/user-attachments/assets/0b5859e3-b9fd-4cae-8298-e7ef6d40088c)
+
 
 
 **RTL**
+![DE LG CODE](https://github.com/user-attachments/assets/1f9e04cf-148b-41cd-ae5e-5d829a20ce1f)
+
+
 
 **Result:**
 ![DE LG OUTPUT](https://github.com/user-attachments/assets/05b96a4d-a3be-4ca7-9adb-d82733d86b72) 
