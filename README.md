@@ -85,7 +85,4 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL**
 
 **Result:**
-![DE LG OUTPUT](https://github.com/user-attachments/assets/05b96a4d-a3be-4ca7-9adb-d82733d86b72)
-
-
-
+![DE LG OUTPUT](https://github.com/user-attachments/assets/05b96a4d-a3be-4ca7-9adb-d82733d86b72) 
