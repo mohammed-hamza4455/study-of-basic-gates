@@ -1,5 +1,6 @@
-### study-of-basic-gates
-0
+### EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+# NAME : MOHAMMED HAMZA M
+# REGISTRATION NUMBER : 24900511
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -70,11 +71,17 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![basic gates ss](https://github.com/user-attachments/assets/a364deb8-2d19-462b-8a29-a9b118d76ec1)
 
-**RTL realization Output:** 
 
-**RTL**
+**RTL realization Output:**
+![basic gates logic](https://github.com/user-attachments/assets/9effe389-61e7-49c6-bdfe-5d38184a2f3b)
+![basic gates code](https://github.com/user-attachments/assets/f0b935e5-5473-456f-b2ba-1206df144b90)
+
+
 
 **Result:**
+![basic gates waveform](https://github.com/user-attachments/assets/7d52bd92-09b6-4f84-b784-a96ca0063650)
+
 
 
