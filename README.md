@@ -1,6 +1,6 @@
-### EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
-# NAME : MOHAMMED HAMZA M
-# REGISTRATION NUMBER : 24900511
+# EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+## NAME : MOHAMMED HAMZA M
+## REGISTRATION NUMBER : 24900511
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
