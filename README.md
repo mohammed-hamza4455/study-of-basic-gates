@@ -64,24 +64,23 @@ Y= A⊕B
 
 
 **PROGRAM**
-![Screenshot 2024-11-11 105442](https://github.com/user-attachments/assets/bf8313ef-181c-43a9-829f-7001dfc43bae)
+![basic gates code](https://github.com/user-attachments/assets/f0b935e5-5473-456f-b2ba-1206df144b90)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
-![basic gates ss](https://github.com/user-attachments/assets/a364deb8-2d19-462b-8a29-a9b118d76ec1)
-
+![basic gates logic](https://github.com/user-attachments/assets/9effe389-61e7-49c6-bdfe-5d38184a2f3b)
 
 **RTL realization Output:**
-![basic gates logic](https://github.com/user-attachments/assets/9effe389-61e7-49c6-bdfe-5d38184a2f3b)
-![basic gates code](https://github.com/user-attachments/assets/f0b935e5-5473-456f-b2ba-1206df144b90)
+
+![basic gates ss](https://github.com/user-attachments/assets/c1eaf211-d2a7-4297-988c-0caec6ad730e)
+**OUTPUT**
+![basic gates waveform](https://github.com/user-attachments/assets/8f747076-0ea7-477c-a647-c91e1e73bc3b)
+
 
 
 
 **Result:**
-![basic gates waveform](https://github.com/user-attachments/assets/7d52bd92-09b6-4f84-b784-a96ca0063650)
-
+ Thus the different digital IC's are studied and the truth table for different logic gates are verified
 
 
