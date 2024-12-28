@@ -70,10 +70,10 @@ Y= A⊕B
  
 **Logic symbol & Truthtable**
 ![basic gates logic](https://github.com/user-attachments/assets/9effe389-61e7-49c6-bdfe-5d38184a2f3b)
-
-**RTL realization Output:**
-
 ![basic gates ss](https://github.com/user-attachments/assets/c1eaf211-d2a7-4297-988c-0caec6ad730e)
+**RTL realization Output:**
+![basic gates logic](https://github.com/user-attachments/assets/9effe389-61e7-49c6-bdfe-5d38184a2f3b)
+
 **OUTPUT**
 ![basic gates waveform](https://github.com/user-attachments/assets/8f747076-0ea7-477c-a647-c91e1e73bc3b)
 
